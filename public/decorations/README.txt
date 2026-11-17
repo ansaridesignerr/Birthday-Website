@@ -1,0 +1,1 @@
+Optional custom SVG decorations.
